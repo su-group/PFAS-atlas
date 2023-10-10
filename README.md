@@ -1,10 +1,11 @@
 
- #An Artificial Intelligence Platform for Automated PFAS Subgroup Classification: a Discovery Tool for PFAS Screening.
- This repository has the data and code for our manuscript "An Artificial Intelligence Platform for Automated PFAS Subgroup Classification: a Discovery Tool for PFAS Screening". The manuscript is currently under peer review. PLEASE DO NOT SHARE THE CODE BEFORE OUR MANUSCRIPT IS PUBLISHED. Thank you!
+ # An Artificial Intelligence Platform for Automated PFAS Subgroup Classification: a Discovery Tool for PFAS Screening.
+ * This repository has the data and code for our manuscript "An Artificial Intelligence Platform for Automated PFAS Subgroup Classification: a Discovery Tool for PFAS Screening". The manuscript is currently under peer review. PLEASE DO NOT SHARE THE CODE BEFORE OUR MANUSCRIPT IS PUBLISHED. Thank you!
 
 
  
-#PFAS_Atlas
+# PFAS_Atlas
+
    - **Website link**
    - **How to cite**
    - **Installation**
@@ -12,7 +13,7 @@
 
 **Website link**
      
-    http://116.62.166.157
+    http://116.62.166.157/   or  www.pfas-atlas.net(which may not be accessible during the review process)
 
 **How to cite**
 
@@ -20,7 +21,8 @@
 
 
 
-#If you want to run it locally, perform the following steps to deploy the environment
+# If you want to run it locally, perform the following steps to deploy the environment.
+
 **Installation**
     
     1.Do not worry about operating systems as PFAS_Atlas has been tested on Linux(Ubuntu LTS 20.04).

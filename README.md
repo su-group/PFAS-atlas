@@ -5,13 +5,22 @@
 
  
 #PFAS_Atlas
-
-   - **Installation**
-   - **How to Use PFAS_Atlas**
    - **Website link**
    - **How to cite**
+   - **Installation**
+   - **How to Use PFAS_Atlas**
+
+**Website link**
+     
+    http://116.62.166.157
+
+**How to cite**
+
+    Please cite this paper as:Su, An & Cheng, Yingying & Zhang, Chengwei & Yang, Yun-Fang & She, Yuan-Bin & Rajan, Krishna. (2023). An Artificial Intelligence Platform for Automated PFAS Subgroup Classification: A Discovery Tool for PFAS Screening. 10.26434/chemrxiv-2023-4m96k. 
 
 
+
+#If you want to run it locally, perform the following steps to deploy the environment
 **Installation**
     
     1.Do not worry about operating systems as PFAS_Atlas has been tested on Linux(Ubuntu LTS 20.04).
@@ -57,12 +66,3 @@
     6. "step6_visualization_toxicity.py": Use tmap to explore hit ratio of PFAS toxicity.
        "step6_visualization_VDR.py": Use tmap to explore the binding affinity of PFAS to vitamin D receptors.
  
-**Website link**
-     
-    http://116.62.166.157
-
-**How to cite**
-
-    Please cite this paper as:Su, An & Cheng, Yingying & Zhang, Chengwei & Yang, Yun-Fang & She, Yuan-Bin & Rajan, Krishna. (2023). An Artificial Intelligence Platform for Automated PFAS Subgroup Classification: A Discovery Tool for PFAS Screening. 10.26434/chemrxiv-2023-4m96k. 
-
-

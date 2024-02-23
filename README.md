@@ -13,7 +13,7 @@
 
 **Website link**
      
-    http://116.62.166.157/   or  www.pfas-atlas.net(which may not be accessible during the review process)
+    https://www.pfas-atlas.net
 
 **How to cite**
 
@@ -65,6 +65,6 @@
     3."step3_classify.py": Classify OECD PFAS.
     4."step4_unsupervised_training.py": Unsupervised pre-training phase of bert model.
     5."step5_visualization_OECD_PFAS.py": Use tmap to reduce dimension and visualize OECD PFAS classification results.
-    6. "step6_visualization_toxicity.py": Use tmap to explore hit ratio of PFAS toxicity.
-       "step6_visualization_VDR.py": Use tmap to explore the binding affinity of PFAS to vitamin D receptors.
+    6."step6_visualization_toxicity.py": Use tmap to explore hit ratio of PFAS toxicity.
+      "step6_visualization_VDR.py": Use tmap to explore the binding affinity of PFAS to vitamin D receptors.
  

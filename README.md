@@ -1,6 +1,6 @@
 
- # An Artificial Intelligence Platform for Automated PFAS Subgroup Classification: a Discovery Tool for PFAS Screening.
- * This repository has the data and code for our manuscript "An Artificial Intelligence Platform for Automated PFAS Subgroup Classification: a Discovery Tool for PFAS Screening". The manuscript is currently under peer review. PLEASE DO NOT SHARE THE CODE BEFORE OUR MANUSCRIPT IS PUBLISHED. Thank you!
+ # An artificial intelligence platform for automated PFAS subgroup classification: A discovery tool for PFAS screening
+ * This repository stores the data and code for our paper "An artificial intelligence platform for automated PFAS subgroup classification: A discovery tool for PFAS screening" published in Science of The Total Environment, 2024, (https://doi.org/10.1016/j.scitotenv.2024.171229)
 
 
  
@@ -17,7 +17,7 @@
 
 **How to cite**
 
-    Please cite this paper as:Su, An & Cheng, Yingying & Zhang, Chengwei & Yang, Yun-Fang & She, Yuan-Bin & Rajan, Krishna. (2023). An Artificial Intelligence Platform for Automated PFAS Subgroup Classification: A Discovery Tool for PFAS Screening. 10.26434/chemrxiv-2023-4m96k. 
+    Please cite this paper as: An Su, Yingying Cheng, Chengwei Zhang, Yun-Fang Yang, Yuan-Bin She, Krishna Rajan, An artificial intelligence platform for automated PFAS subgroup classification: A discovery tool for PFAS screening, Science of The Total Environment, 921, 2024, 171229 (https://doi.org/10.1016/j.scitotenv.2024.171229). 
 
 
 
